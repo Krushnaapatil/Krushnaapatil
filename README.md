@@ -1,4 +1,4 @@
-👋 Hey there! I'm Krushna Patil — a passionate explorer in the world of tech.
+👋 Hey there! I'm a passionate explorer in the world of tech.
 💻 Currently diving deep into Web Development and gearing up for Cloud & DevOps adventures.
 🚀 Always excited to learn, build, and collaborate on meaningful tech projects.
 🤝 Looking to connect with fellow developers, creators, and learners.
