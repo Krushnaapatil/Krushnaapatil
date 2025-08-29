@@ -38,3 +38,8 @@ Portfolio Website
 🌐 Portfolio Website : https://portfolio-krushna-patil.vercel.app/
 
 ✨ “Code is craft. Every commit is a step toward mastery.”
+
+
+# 🚀 My Developer Portfolio  
+
+[![Live Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge)](https://portfolio-krushna-patil.vercel.app)
