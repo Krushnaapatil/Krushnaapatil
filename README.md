@@ -1,6 +1,6 @@
-👋 Hi, I’m Krushna
+# 👋 Hi, I’m Krushna
 
-🚀 Full-Stack Web Developer 
+## 🚀 Full-Stack Web Developer 
 
 I love turning ideas into production-ready applications. My mantra: Build → Push → Post → Repeat.
 Currently pursuing my B.E. in Computer Engineering at MET Institute of Engineering, Nashik.
@@ -22,12 +22,6 @@ Backend: Node.js, Express.js
 Databases: MongoDB, PostgreSQL, mySQL, SQL
 Tools & DevOps: Git, GitHub, Docker, REST APIs
 Concepts: MVC, CRUD, Authentication, Responsive Design
-
-🔥 Featured Projects
-
-Portfolio Website
- → 3D interactive developer portfolio with React Three Fiber & Framer Motion
-   https://portfolio-krushna-patil.vercel.app/
 
 📫 Let’s Connect
 
