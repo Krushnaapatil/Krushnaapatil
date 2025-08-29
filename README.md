@@ -1,7 +1,40 @@
-👋 Hey there! I'm a passionate explorer in the world of tech.
-💻 Currently diving deep into Web Development and gearing up for Cloud & DevOps adventures.
-🚀 Always excited to learn, build, and collaborate on meaningful tech projects.
-🤝 Looking to connect with fellow developers, creators, and learners.
-📬 Reach out to me anytime: patilkrushna222004@gmail.com
-🌐 Let’s build the future, one line of code at a time!
+👋 Hi, I’m Krushna
 
+🚀 Full-Stack Web Developer 
+
+I love turning ideas into production-ready applications. My mantra: Build → Push → Post → Repeat.
+Currently pursuing my B.E. in Computer Engineering at MET Institute of Engineering, Nashik.
+
+💡 About Me
+
+🔭 Building scalable web applications with JavaScript, Node.js, Express, React, PostgreSQL, mySQL and MongoDB.
+
+🌱 Exploring Cloud & DevOps — CI/CD pipelines, Docker, and automation workflows.
+
+🧩 Strong believer in clean architecture, design principles, and maintainable code.
+
+🎯 Goal: Bridge web development with DevOps to deliver production-ready solutions end-to-end.
+
+🛠️ Tech Stack
+
+Frontend: React, EJS, TailwindCSS, Bootstrap
+Backend: Node.js, Express.js
+Databases: MongoDB, PostgreSQL, mySQL, SQL
+Tools & DevOps: Git, GitHub, Docker, REST APIs
+Concepts: MVC, CRUD, Authentication, Responsive Design
+
+🔥 Featured Projects
+
+Portfolio Website
+ → 3D interactive developer portfolio with React Three Fiber & Framer Motion
+   https://portfolio-krushna-patil.vercel.app/
+
+📫 Let’s Connect
+
+💼 LinkedIn : https://www.linkedin.com/in/krushna-patil/
+
+📧 Email : patilkrushna222004@gmail.com
+
+🌐 Portfolio Website : https://portfolio-krushna-patil.vercel.app/
+
+✨ “Code is craft. Every commit is a step toward mastery.”
