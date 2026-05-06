@@ -1,39 +1,24 @@
-# 👋 Hi, I’m Krushna
+# Hi, I'm Krushna Patil 👋
 
-## 🚀 Full-Stack Web Developer 
+Full-Stack Web Developer (MERN) · B.E. Computer Engineering @ MET Institute, Nashik
 
-I love turning ideas into production-ready applications. My mantra: Build → Push → Post → Repeat.
-Currently pursuing my B.E. in Computer Engineering at MET Institute of Engineering, Nashik.
+---
 
-# 💡 About Me
+## 🔭 Currently Working On
+Building scalable, responsive web apps and exploring Cloud & DevOps — CI/CD, Docker, and automation workflows.
 
- 🔭 Building scalable web applications with JavaScript, Node.js, Express, React, PostgreSQL, mySQL and MongoDB.
+---
 
- 🌱 Exploring Cloud & DevOps — CI/CD pipelines, Docker, and automation workflows.
+## 🛠️ Tech Stack
+**Frontend:** React.js, Tailwind CSS, Bootstrap, EJS  
+**Backend:** Node.js, Express.js  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Tools:** Git, GitHub, Docker, Postman, REST APIs  
 
- 🧩 Strong believer in clean architecture, design principles, and maintainable code.
+---
 
- 🎯 Goal: Bridge web development with DevOps to deliver production-ready solutions end-to-end.
-
- 🛠️ Tech Stack
-
-Frontend: React, EJS, TailwindCSS, Bootstrap
-Backend: Node.js, Express.js
-Databases: MongoDB, PostgreSQL, mySQL, SQL
-Tools & DevOps: Git, GitHub, Docker, REST APIs
-Concepts: MVC, CRUD, Authentication, Responsive Design
-
-## 📫 Let’s Connect
-
- 💼 LinkedIn : https://www.linkedin.com/in/krushna-patil/
-
- 📧 Email : patilkrushna222004@gmail.com
-
- 🌐 Portfolio Website : https://portfolio-krushna-patil.vercel.app/
-
-✨ “Code is craft. Every commit is a step toward mastery.”
-
-
-# 🚀 My Developer Portfolio  
-
-[![Live Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge)](https://portfolio-krushna-patil.vercel.app)
+## 📫 Reach Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat-square)](https://portfolio-krushna-patil.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krushna-patil/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:patilkrushna222004@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/krushnapatil224)
