@@ -11,7 +11,7 @@ Building scalable, responsive web apps and exploring Cloud & DevOps — CI/CD, D
 
 ## 🛠️ Tech Stack
 **Frontend:** React.js, Tailwind CSS, Bootstrap, EJS  
-**Backend:** Node.js, Express.js  
+**Backend:** Node.js, Express.js, Spring, Spring Boot, Servlet, JDBC  
 **Databases:** PostgreSQL, MongoDB, MySQL  
 **Tools:** Git, GitHub, Docker, Postman, REST APIs  
 
